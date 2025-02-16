@@ -26,121 +26,121 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:product_brand.view_order_product_search
 #: model_terms:ir.ui.view,arch_db:product_brand.view_product_template_search_brand
 msgid "Brand"
-msgstr "Marka"
+msgstr "العلامة التجارية"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__name
 #: model_terms:ir.ui.view,arch_db:product_brand.view_product_brand_form
 msgid "Brand Name"
-msgstr "Nazwa marki"
+msgstr "اسم العلامة التجارية"
 
 #. module: product_brand
 #: model:ir.actions.act_window,name:product_brand.action_open_brand_products
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__product_ids
 msgid "Brand Products"
-msgstr "Produkty marki"
+msgstr "منتجات العلامة التجارية"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__create_uid
 msgid "Created by"
-msgstr "Stworzone przez"
+msgstr "تم إنشاؤه بواسطة"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__create_date
 msgid "Created on"
-msgstr "Data utworzenia"
+msgstr "تم إنشاؤه على"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__description
 #: model_terms:ir.ui.view,arch_db:product_brand.view_product_brand_form
 msgid "Description"
-msgstr "Opis"
+msgstr "الوصف"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__display_name
 msgid "Display Name"
-msgstr "Wyświetlana nazwa"
+msgstr "اسم العرض"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__id
 msgid "ID"
-msgstr "ID"
+msgstr "الهوية"
 
 #. module: product_brand
 #: model:ir.model,name:product_brand.model_account_invoice_report
 msgid "Invoices Statistics"
-msgstr "Statystyki faktur"
+msgstr "إحصائيات الفواتير"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand____last_update
 msgid "Last Modified on"
-msgstr "Ostatnia modyfikacja"
+msgstr "آخر تعديل على"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__write_uid
 msgid "Last Updated by"
-msgstr "Ostatnia aktualizacja przez"
+msgstr "آخر تحديث بواسطة"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__write_date
 msgid "Last Updated on"
-msgstr "Ostatnia aktualizacja"
+msgstr "آخر تحديث في"
 
 #. module: product_brand
 #: model_terms:ir.ui.view,arch_db:product_brand.view_product_brand_kanban
 msgid "Logo"
-msgstr "Logo"
+msgstr "الشعار"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__logo
 msgid "Logo File"
-msgstr "Plik logo"
+msgstr "ملف الشعار"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__products_count
 msgid "Number of products"
-msgstr "Liczba produktów"
+msgstr "عدد المنتجات"
 
 #. module: product_brand
 #: model:ir.model.fields,field_description:product_brand.field_product_brand__partner_id
 msgid "Partner"
-msgstr "Partner"
+msgstr "الشريك"
 
 #. module: product_brand
 #: model:ir.model,name:product_brand.model_product_template
 msgid "Product"
-msgstr "Produkt"
+msgstr "المنتج"
 
 #. module: product_brand
 #: model:ir.actions.act_window,name:product_brand.action_open_single_product_brand
 #: model:ir.model,name:product_brand.model_product_brand
 #: model_terms:ir.ui.view,arch_db:product_brand.product_brand_search_form_view
 msgid "Product Brand"
-msgstr "Marka produktu"
+msgstr "العلامة التجارية للمنتج"
 
 #. module: product_brand
 #: model:ir.ui.menu,name:product_brand.menu_product_brand
 msgid "Product Brands"
-msgstr "Marki produktów"
+msgstr "العلامات التجارية للمنتجات"
 
 #. module: product_brand
 #: model_terms:ir.ui.view,arch_db:product_brand.view_product_brand_form
 #: model_terms:ir.ui.view,arch_db:product_brand.view_product_brand_kanban
 msgid "Products"
-msgstr "Produkty"
+msgstr "المنتجات"
 
 #. module: product_brand
 #: model:ir.model,name:product_brand.model_sale_report
 msgid "Sales Analysis Report"
-msgstr "Raport analityczny sprzedaży"
+msgstr "تقرير المبيعات التحليلي"
 
 #. module: product_brand
 #: model:ir.model.fields,help:product_brand.field_product_product__product_brand_id
 #: model:ir.model.fields,help:product_brand.field_product_template__product_brand_id
 msgid "Select a brand for this product"
-msgstr "Wybierz markę dla tego produktu"
+msgstr "اختر علامة تجارية لهذا المنتج"
 
 #. module: product_brand
 #: model:ir.model.fields,help:product_brand.field_product_brand__partner_id
 msgid "Select a partner for this brand if any."
-msgstr "Wybierz partnera dla tej marki, jeśli istnieje."
+msgstr "اختر شريكًا لهذه العلامة التجارية إن وجدت."
